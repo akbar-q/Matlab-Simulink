@@ -1,11 +1,8 @@
 # Grid-Connected PV Inverter with Single-Stage MPPT (2kW)
 
-This repository features two MATLAB Simulink (R2024a) models of a **2kW Grid-Connected Photovoltaic (PV) System** with **Single-Stage Inversion** and **MPPT Control**:
+This repository features two MATLAB Simulink (R2024a) models of a **2kW Grid-Connected Photovoltaic (PV) System** with **Single-Stage Inversion** and **MPPT Control** Make Sure to Load the Variables and Irridiation Plot:
 
-1. **Voltage-based MPPT (RefGen)**
-2. **Current-based MPPT (MPPT)**
-
-Each model simulates a practical PV inverter setup, including MPPT tracking, inverter control, and grid synchronization.
+The model simulates a practical PV inverter setup, including MPPT tracking, inverter control, and grid synchronization.
 
 ---
 
