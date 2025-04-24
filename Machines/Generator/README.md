@@ -31,7 +31,7 @@ The model is organized into three main sections:
 2. **Generator Input/Output Measurements** (bottom-left panel)
 3. **Power Analysis at the Load** (bottom-center panel)
 
-![3-Phase AC Generator Model](./a2755dc7-b8c4-465f-b5fa-9bbf18fff657.png)
+![3-Phase AC Generator Model](./Diagram.png)
 
 ### Key Components:
 - **Synchronous Machine (pu)**: Represents the 3-phase AC generator.
