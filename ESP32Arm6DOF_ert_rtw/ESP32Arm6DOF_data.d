@@ -1,0 +1,22 @@
+ESP32Arm6DOF_data.o: \
+ C:/Users/Akbar/CLOUD-~1.UK/HOBBYP~1/GITHUB~1/MATLAB~1/ESP32Arm6DOF_ert_rtw/ESP32Arm6DOF_data.c \
+ C:/Users/Akbar/CLOUD-~1.UK/HOBBYP~1/GITHUB~1/MATLAB~1/ESP32Arm6DOF_ert_rtw/ESP32Arm6DOF.h \
+ C:/Users/Akbar/CLOUD-~1.UK/HOBBYP~1/GITHUB~1/MATLAB~1/ESP32Arm6DOF_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_continuous.h \
+ C:/Users/Akbar/CLOUD-~1.UK/HOBBYP~1/GITHUB~1/MATLAB~1/ESP32Arm6DOF_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/MATLAB/R2024a/simulink/include/rtw_continuous.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/target/SUPPOR~1/ARDUIN~1/include/MW_ServoWriteRead.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/matlab/hardware/shared/sensors/THIRDP~1/vl53l0x/vl53l0x_main.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/matlab/hardware/shared/sensors/THIRDP~1/vl53l0x/core/inc/vl53l0x_api.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/matlab/hardware/shared/sensors/THIRDP~1/vl53l0x/core/inc/vl53l0x_api_strings.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/matlab/hardware/shared/sensors/THIRDP~1/vl53l0x/core/inc/vl53l0x_def.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/matlab/hardware/shared/sensors/THIRDP~1/vl53l0x/core/inc/vl53l0x_device.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/matlab/hardware/shared/sensors/THIRDP~1/vl53l0x/platform/inc/vl53l0x_types.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/matlab/hardware/shared/sensors/THIRDP~1/vl53l0x/platform/inc/vl53l0x_platform.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/matlab/hardware/shared/sensors/THIRDP~1/vl53l0x/core/inc/vl53l0x_def.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/matlab/hardware/shared/sensors/THIRDP~1/vl53l0x/platform/inc/vl53l0x_platform_log.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2024a/toolbox/matlab/hardware/shared/sensors/THIRDP~1/vl53l0x/platform/inc/vl53l0x_i2c_platform.h \
+ C:/Users/Akbar/CLOUD-~1.UK/HOBBYP~1/GITHUB~1/MATLAB~1/ESP32Arm6DOF_ert_rtw/ESP32Arm6DOF_types.h \
+ C:/Users/Akbar/CLOUD-~1.UK/HOBBYP~1/GITHUB~1/MATLAB~1/ESP32Arm6DOF_ert_rtw/rt_nonfinite.h \
+ C:/Users/Akbar/CLOUD-~1.UK/HOBBYP~1/GITHUB~1/MATLAB~1/ESP32Arm6DOF_ert_rtw/zero_crossing_types.h
